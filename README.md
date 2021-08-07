@@ -4,7 +4,7 @@
 - 🧑🏻‍💻 I’m currently learning Bug Bounty Hunting, Penetration testing, Coding 
 
 - 🤔 I’m looking for help with github 
-- 💬 Dont asko me about Facebook Hacking 
+- 💬 Dont ask me about Facebook Hacking 
 - 📫 How to reach me: Facebook - Twitter - YouTube
 
 - ⚡ Fun fact: I dont sleep 
