@@ -5,7 +5,7 @@
 
 - 🤔 I’m looking for help with github 
 - 💬 Dont ask me about Facebook Hacking 
-- 📫 How to reach me: Facebook - Twitter - YouTube
+- 📫 How to reach me: Facebook - [Facebook](https://m.facebook.com/etoljamescarl) - [Twitter](https://twitter.com/terrius) -[YouTube](https://youtube.com/terrius-punk)
 
-- ⚡ Fun fact: I dont sleep 
--->
+- ⚡ Fun fact: I dont sleep :<
+
