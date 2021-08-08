@@ -8,8 +8,8 @@
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+fellow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
 
 <p align="left">
-<a href="https://github.com/T3rr8us-P4nk.git"><img title="Github" src="https://img.shields.io/badge/Github-MKDIRLOVE-blue?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/mkdirlove"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-MKDIRLOVE-blue?style=for-the-badge&logo=gitlab"></a>
+<a href="https://github.com/T3rr8us-P4nk"><img title="Github" src="https://img.shields.io/badge/Github-T3RR8US-blue?style=for-the-badge&logo=github"></a>
+<a href="https://gitlab.com/T3rr8us-P4nk"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-T3RR8US-blue?style=for-the-badge&logo=gitlab"></a>
 </p>
 <p align="left">
 <a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
