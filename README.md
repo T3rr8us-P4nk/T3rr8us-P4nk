@@ -1,5 +1,5 @@
 # Hi, I'm T3rr8us P4nk 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
+
 
 <div align="center" width="50">                    
 
@@ -17,6 +17,7 @@
 <a href="https://www.instagram.com/T3rr8us-P4nk "><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 ![Followers](https://img.shields.io/github/followers/T3rr8us?l-P4nkl?abel=Followers&style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/github/stars/T3rr8us-P4nk?affiliations=OWNER&style=for-the-badge&logo=github)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
 
 > I'm a Filipino opensource python developer, student penetration tester from Philippines!
 * 📚 Currently Bug Bounty Hunting, Penetration testing
