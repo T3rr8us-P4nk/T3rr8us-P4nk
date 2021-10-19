@@ -20,8 +20,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
 
 > I'm a Filipino opensource python developer, student penetration tester from Philippines!
-* 📚 Currently Bug Bounty Hunting, Penetration testing
-* 🌐 Check Out My YouTube Channel [here](https://m.youtube.com/channel/UC1IA5cyRUEze3lRzw-PQCBg).
+* 📚 Currently Studying Bug Bounty Hunting, Penetration testing
+* 🛑 Check Out My YouTube Channel [here](https://m.youtube.com/channel/UC1IA5cyRUEze3lRzw-PQCBg).
+* 🌐 Visit My Wevsite [Click Here](http://etoljamescarl.rf.gd).
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Github Awards
 
