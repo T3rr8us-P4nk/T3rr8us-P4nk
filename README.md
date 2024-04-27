@@ -19,7 +19,7 @@
 ![Followers](https://img.shields.io/github/followers/T3rr8us?l-P4nkl?abel=Followers&style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/github/stars/T3rr8us-P4nk?affiliations=OWNER&style=for-the-badge&logo=github)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
 
-> My name is James Carl Etol A.K.A Terrius/R3x, I'm a Bug hunter, Developer, Student and I'm from Philippines
+> My name is James Carl Etol A.K.A Terrius, I'm a Bug hunter, Developer, Student and I'm from Philippines
 - Check my channels :
 * 📱 Facebook page [Click Here](https://www.facebook.com/T3rr8usP4nk/)
 * 🛑 Check Out My YouTube Channel [Click Here](https://m.youtube.com/channel/UC1IA5cyRUEze3lRzw-PQCBg).
