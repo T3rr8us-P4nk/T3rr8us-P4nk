@@ -8,13 +8,8 @@
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+fellow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
 
 <p align="left">
-<a href="https://github.com/T3rr8us-P4nk"><img title="Github" src="https://img.shields.io/badge/Github-T3RR8US-blue?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/T3rr8us-P4nk"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-T3RR8US-blue?style=for-the-badge&logo=gitlab"></a>
-</p>
-<p align="left">
 <a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
-<a href="https://www.instagram.com/T3rr8us-P4nk "><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.youtube.com/@imjcdev"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
 
 ![Followers](https://img.shields.io/github/followers/T3rr8us?l-P4nkl?abel=Followers&style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/github/stars/T3rr8us-P4nk?affiliations=OWNER&style=for-the-badge&logo=github)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
