@@ -11,8 +11,8 @@
 <a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
 <a href="https://www.youtube.com/@imjcdev"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
 
-![Followers](https://img.shields.io/github/followers/T3rr8us?l-P4nkl?abel=Followers&style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/github/stars/T3rr8us-P4nk?affiliations=OWNER&style=for-the-badge&logo=github)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/T3rr8us-P4nk?label=Followers&style=for-the-badge&logo=github)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat" alt="imjcdev" /> </p>
 
 > My name is James Carl Etol A.K.A Terrius, I'm a Bug hunter, Developer, Student and I'm from Philippines
 - Check my channels :
