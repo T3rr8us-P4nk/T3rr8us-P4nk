@@ -6,10 +6,12 @@
 
 > My name is James Carl Etol, a 17-year-old enthusiast in Web pentesting, coding, CTFs, and playing guitar.
 - Check my channels :
-- <p align="left">
+<p align="left">
 <a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
 <a href="https://www.youtube.com/@imjcdev"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
-* 🌐 Visit My Wevsite [Click Here](https://www.imjcdev.online/).
+<a href="http://etoljamescarl.rf.gd/">
+  <img title="Website" src="https://img.shields.io/badge/Website-Visit-blueviolet?style=for-the-badge&logo=google-chrome">
+</a>
 
 ## <img src="https://img.icons8.com/nolan/25/github.png"/> Github Awards
 
