@@ -8,16 +8,15 @@
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00F700&size=36&multiline=true&width=970&height=60&lines=Hello+there%2C+fellow+%3Chackers%2F%3E+and+%3Ccoderz%2F%3E!)](https://git.io/typing-svg)
 
 <p align="left">
-<a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.youtube.com/@imjcdev"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/T3rr8us-P4nk?label=Followers&style=for-the-badge&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=T3rr8us-P4nk&label=Profile%20views&color=0e75b6&style=flat)
 
-> My name is James Carl Etol A.K.A Terrius, I'm a Bug hunter, Developer, Student and I'm from Philippines
+> My name is James Carl Etol, a 17-year-old enthusiast in Web pentesting, coding, CTFs, and playing guitar.
 - Check my channels :
-* 📱 Facebook page [Click Here](https://www.facebook.com/T3rr8usP4nk/)
-* 🛑 Check Out My YouTube Channel [Click Here](https://m.youtube.com/channel/UC1IA5cyRUEze3lRzw-PQCBg).
+<a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.youtube.com/@imjcdev"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
 * 🌐 Visit My Wevsite [Click Here](https://www.imjcdev.online/).
 
 ## <img src="https://img.icons8.com/nolan/25/github.png"/> Github Awards
