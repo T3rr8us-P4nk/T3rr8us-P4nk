@@ -24,7 +24,7 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.facebook.com/jamescarl.retiza.9">
+  <a href="https://www.facebook.com/T3rr8usP4nk">
     <img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook">
   </a>
   <a href="https://www.youtube.com/@imjcdev">
