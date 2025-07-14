@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-> My name is **James Carl Etol**, a **17-year-old enthusiast** in:
+> My name is **James Carl Etol**, a **18-year-old enthusiast** in:
 - 🌐 Web Pentesting
 - 💻 Coding
 - 🧠 CTFs
