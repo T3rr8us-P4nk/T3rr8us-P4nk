@@ -12,7 +12,7 @@
 <a href="https://gitlab.com/T3rr8us-P4nk"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-T3RR8US-blue?style=for-the-badge&logo=gitlab"></a>
 </p>
 <p align="left">
-<a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
 <a href="https://www.facebook.com/jamescarl.retiza.9"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
 <a href="https://www.instagram.com/T3rr8us-P4nk "><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
