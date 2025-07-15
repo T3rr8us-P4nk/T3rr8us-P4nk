@@ -48,6 +48,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/php.png" title="PHP"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
