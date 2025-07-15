@@ -51,7 +51,6 @@
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/php.png" title="PHP"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/doodle/48/console--v2.png" title="CLI"/>
   <img src="https://img.icons8.com/color/48/old-vmware-logo.png" title="VMware"/>
   <img src="https://img.icons8.com/color/48/virtualbox.png" title="VirtualBox"/>
@@ -60,7 +59,6 @@
   <img src="https://img.icons8.com/color/48/parrot.png" title="Parrot OS"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" title="Kali Linux"/>
   <img src="https://img.icons8.com/color/48/ubuntu.png" title="Ubuntu"/>
-  <img src="https://img.icons8.com/color/48/linux.png" title="Linux"/>
   <img src="https://img.icons8.com/fluent/48/windows-10.png" title="Windows 10"/>
 </p>
 
